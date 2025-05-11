@@ -27,7 +27,7 @@
     "dev": "vite"
   },
   "peerDependencies": {
-    "@babylonjs/core": "^6 || ^7"
+    "@babylonjs/core": "^6 || ^7 || ^8"
   },
   "devDependencies": {
     "@types/node": "^20.14.12",
